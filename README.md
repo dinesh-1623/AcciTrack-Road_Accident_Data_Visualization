@@ -36,6 +36,3 @@ The dataset contains the following key attributes:
 🔹 Integrate **Geo-mapping** for better location-based insights.  
 🔹 Implement **predictive analytics** for accident trends.  
 
-## **Contributors**  
-- **Your Name** – Data preparation, visualization, and dashboard design.  
-
